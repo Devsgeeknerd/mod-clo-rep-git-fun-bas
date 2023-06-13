@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [O Que é a Clonagem de Repositórios.](https://github.com/Devsggeknerd/cla-o-que-clo-rep-clo-rep-git-fun-bas) &#128679;
+* [x] [O Que é a Clonagem de Repositórios.](https://github.com/Devsgeeknerd/cla-o-que-clo-rep-clo-rep-git-fun-bas)
 * [ ] [Clonando Repositórios no GitHub.](https://github.com/Devsgeeknerd/cla-clo-rep-hub-clo-rep-git-fun-bas) &#128679;
 
 <!-- Informações -->
